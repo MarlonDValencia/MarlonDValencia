@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 <h1 align="center">Hi 👋, I'm Marlon David</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
