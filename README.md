@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marlon David</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media0.giphy.com/media/5OW9D8sfzccttn3MwL/giphy.gif?cid=ecf05e47knsyrj9qnmpxlu2r0lh4uok4f6qd3axj2juuyeek&rid=giphy.gif&ct=g" width="40" height="40" />
 - 🌱 I’m currently learning **React.JS, SpringBoot, Node.js**
 
 - 💬 Ask me about **React, JavaScript, Python**
