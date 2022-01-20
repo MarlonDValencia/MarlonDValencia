@@ -2,6 +2,7 @@
 <h3 align="center">FullStack Developer</h3>
 <h3 align="center">Colombia</h3>
 <img src="https://media0.giphy.com/media/5OW9D8sfzccttn3MwL/giphy.gif?cid=ecf05e47knsyrj9qnmpxlu2r0lh4uok4f6qd3axj2juuyeek&rid=giphy.gif&ct=g" width="100" height="100" />
+
 - 🌱 I’m currently learning **React.JS, SpringBoot, Node.js**
 
 - 💬 Ask me about **React, JavaScript, Python**
