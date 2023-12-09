@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.JS, SpringBoot, Node.js**
 
-- 💬 Ask me about **React, JavaScript, Python**
+- 💬 Ask me about **Java, React.js, JavaScript, Python, SpringFramework**
 
 - 📫 How to reach me **marlondvalencia@gmail.com**
 
